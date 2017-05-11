@@ -1,7 +1,7 @@
 <template>
 	<div class="login-bg" :style="{'background-image':'url('+bgUrl+')'}">
 		<div class="title">
-			iCollege后台管理
+			后台管理
 		</div>
 		<div class="login-panel" :class="{isLogin:isLogin}">
 			<div class="top">
@@ -158,9 +158,9 @@
 		top: 50%;
 		left: 50%;
 		margin-left: -201px;
-		margin-top: -310px;
+		margin-top: -211px;
 		z-index: 999;
-		font-size: 50px;
+		font-size: 40px;
 		text-align: center;
 	}
 
@@ -171,7 +171,7 @@
 		top: 50%;
 		left: 50%;
 		margin-left: -176px;
-		margin-top: -220px;
+		margin-top: -141px;
 		z-index: 999;
 		background: #fff;
 		border-radius: 3px;
