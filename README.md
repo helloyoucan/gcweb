@@ -24,11 +24,11 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 #### 登录页面
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/loginPage.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/loginPage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
 #### 用户管理
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/UserInfoManage.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/UserInfoManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
 #### 权限管理
 
@@ -36,16 +36,16 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 #### 课程管理
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/CourseManage.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/CourseManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
  #### 文章管理
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/ArticlesManage.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/ArticlesManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
 #### 写文章
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/write.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/write.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
 #### 标签管理
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/TagsManage.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/TagsManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
