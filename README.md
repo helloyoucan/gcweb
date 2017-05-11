@@ -32,7 +32,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 #### 权限管理
 
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/PermissionsManage.png)
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/PermissionsManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
 #### 课程管理
 
