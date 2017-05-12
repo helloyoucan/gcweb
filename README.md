@@ -20,7 +20,7 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
->  本系统是前端页面，管理逻辑以在课程章节中添加相应的标签，关联到文章的标签
+>  本系统是前端页面，管理逻辑是在课程章节中添加相应的标签，关联到文章的标签
 
 #### 登录页面
 
