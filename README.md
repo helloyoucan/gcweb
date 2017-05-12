@@ -34,13 +34,13 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/PermissionsManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
-#### 查看课程
-
-![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/readCourse.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
-
 #### 课程管理
 
 ![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/CourseManage.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
+
+#### 查看课程(点击放大镜按钮)
+
+![](http://opok8iwaa.bkt.clouddn.com/image/github/gcweb/readCourse.png?imageMogr2/auto-orient/thumbnail/600x600>/blur/1x0/quality/75|imageslim)
 
  #### 文章管理
 
