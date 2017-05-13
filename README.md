@@ -1,6 +1,7 @@
 # gcweb
 
-> 基于vue+vue-resource+element-ui+markdownjs+editor.md的一个课程管理系统
+> 基于vue+vue-resource+element-ui+markdownjs+editor.md的一个课程管理系统     
+预览地址：http://123.207.77.245:8081 (由于是腾讯云的学生主机，所以很慢...)
 
 ## Build Setup
 
